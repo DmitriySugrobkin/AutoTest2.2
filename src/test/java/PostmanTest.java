@@ -4,7 +4,7 @@ import static io.restassured.RestAssured.given;
 
 public class PostmanTest {
     @Test
-    void ShouldReturnBody(){
+    void ShouldReturnBody() {
         // Given - When - Then
 // Предусловия
         given()
